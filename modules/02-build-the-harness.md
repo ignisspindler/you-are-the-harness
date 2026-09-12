@@ -167,7 +167,7 @@ LAYER 4 — OPERATING INSTRUCTIONS
 
 ## TURN 6 — What not to put in the harness. Safety, plainly.
 
-*(Tutor: This turn is about operational safety, and it belongs here because Layer 2 is where people paste things they should not. Deliver it directly. No lecture; one diagram, three short paragraphs, one question.)*
+*(Tutor: This turn is about operational safety, and it belongs here because Layer 2 is where people paste things they should not. Deliver it directly. No lecture; one diagram, two short paragraphs, one question.)*
 
 **Deliver:**
 

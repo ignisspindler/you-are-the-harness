@@ -185,7 +185,7 @@ After capturing Field 1, say:
 
 ## TURN 8 — Write and save the Constitution.
 
-*(Tutor: Compile all nine fields from the conversation into a clean Project Constitution, following the shape of `workbook/artifacts/constitution.md`. Read it back to the learner in full. Ask: "Does this feel like yours? Is there anything you'd change right now?")*
+*(Tutor: Compile all nine fields from the conversation into a clean Project Constitution, following the shape of `workbook/artifacts/constitution.md`. Read it back to the learner in full, inside one code block so it reads as the artifact rather than as prose. Ask: "Does this feel like yours? Is there anything you'd change right now?")*
 
 Once confirmed, save it to `workbook/artifacts/constitution.md`, replacing the template. If that file already holds learner content from an earlier attempt, copy it to `workbook/history/constitution-YYYY-MM-DD-HHMM.md` first and say so.
 

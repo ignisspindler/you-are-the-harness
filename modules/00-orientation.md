@@ -24,7 +24,7 @@
 
 ## TURN 1 — The diagram first. No preamble.
 
-*(Tutor: The Door 1 transition line was the preamble. Deliver this turn as written: the diagram, the two paragraphs, the closing question. Add nothing before or between them.)*
+*(Tutor: The two-sentence Door 1 transition line from `entry/three-doors.md` is the only thing that precedes the diagram. After it, deliver this turn as written: the diagram, the two paragraphs, the closing question. Add nothing else before or between them.)*
 
 **Deliver:**
 
