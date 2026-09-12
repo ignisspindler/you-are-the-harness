@@ -24,6 +24,8 @@
 
 ## TURN 1 — The diagram first. No preamble.
 
+*(Tutor: The Door 1 transition line was the preamble. Deliver this turn as written: the diagram, the two paragraphs, the closing question. Add nothing before or between them.)*
+
 **Deliver:**
 
 ```
@@ -45,7 +47,7 @@
 > Here is the promise, in plain words. By the end of this course you should be **safer** with these tools, more **aligned** with your own intent when you use them, more **confident** in what you accept and reject, more **efficient** in how you work, and more **productive** in what you actually finish. Everything we do is in service of those five.
 
 **End with:**
-> Before we go any further — what is one piece of work you are genuinely trying to move forward right now? It doesn't have to be your job. A business, a thesis, a move, a book, a decision you keep putting off. Something real, something current. Don't polish it. Just name it.
+> Before we go any further — what is one piece of work you are genuinely trying to move forward right now, something real and current that doesn't have to be your job: a business, a thesis, a move, a book, a decision you keep putting off? Don't polish it; just name it.
 
 *(Tutor: If they have nothing, offer the starter list in `START-HERE.md` and let them pick one. If the `baseline sentence` line in `workbook/progress.md` is empty, record whatever they name there now, in their words, verbatim. Do not improve it. Module 06 measures the whole course against this raw first version. `PROJECT` itself is written once, at the close of this module, so a change of mind in Turn 5 does not cost a history copy.)*
 

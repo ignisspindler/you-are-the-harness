@@ -99,7 +99,7 @@ Three ways to begin:
 **End with:**
 > Do you have the time now, or should we schedule this for when you do?
 
-*(If yes: continue to INTENT BUILD PROTOCOL. If no: write to `workbook/progress.md` `INTENT BUILD: deferred on <today>`, `OPEN THREAD: intent build deferred; offer it first`, and `LAST SESSION: <today>, Door 3 deferred`, so the next session resumes correctly. Acknowledge, and close gracefully: "Come back when you have the window. The course will be here.")*
+*(If yes: continue to INTENT BUILD PROTOCOL. If no: write to `workbook/progress.md` `INTENT BUILD: deferred on <today>`, `OPEN THREAD: intent build deferred; offer it first`, and `LAST SESSION: <today>, Door 3 deferred`, so the next session resumes correctly. Acknowledge in one sentence, then close with exactly this, as the last line of the reply, with nothing after it: "Come back when you have the window. The course will be here.")*
 
 ---
 
@@ -297,4 +297,4 @@ After Module 1 is complete and the Project Constitution is saved:
 
 > *"You've just built your Project Constitution. Now let's turn it into something that travels with you into every AI session — not just this course. It's called your intent file. It's a behavioral contract, not a project document. Ready to build it? Plan for about an hour."*
 
-Deliver the TIME WARNING from Door 3 first. Then run the INTENT BUILD PROTOCOL, Phases 2 through 6 only. Phase 1 content comes from Module 1; Phase 7 is skipped because Module 00 already recorded the baselines. Save as described under COMPILE AND CONFIRM.
+Deliver the TIME WARNING from Door 3 first. If they do not have the window, follow Door 3's deferral note exactly: record the deferral in `workbook/progress.md`, acknowledge in one sentence, and end the reply with "Come back when you have the window. The course will be here." as its last line. If they do, run the INTENT BUILD PROTOCOL, Phases 2 through 6 only. Phase 1 content comes from Module 1; Phase 7 is skipped because Module 00 already recorded the baselines. Save as described under COMPILE AND CONFIRM.
