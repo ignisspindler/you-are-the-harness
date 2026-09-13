@@ -12,6 +12,7 @@ The course is for anyone who uses AI for real work and wants to stay in charge o
 
 ## How it runs
 
+- [START-FROM-URL.md](START-FROM-URL.md): for a browser chat that can fetch pages but not read files. The learner pastes one line; the model fetches this file, then the contract, then each lesson from raw URLs as needed, and prints everything the learner must save.
 - [START-HERE.md](START-HERE.md): the learner's first read. Three ways to begin: an AI tool that reads and writes files; a browser chat with the paste-and-save routine in [reference/no-ai-tool-nearby.md](reference/no-ai-tool-nearby.md); or a private copy via GitHub's template button.
 - [README.md](README.md): what the course is, what it builds, and where it comes from.
 - [CONTRIBUTING.md](CONTRIBUTING.md): for anyone editing the curriculum rather than taking it.

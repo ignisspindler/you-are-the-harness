@@ -3,6 +3,14 @@
 
 Get this folder onto your machine (the green **Code** button, then **Download ZIP**), open it in the AI tool you already use, and say **"Read AGENTS.md and start the course."** Your AI becomes the tutor. Seven lessons, six artifacts, all built from a project you actually care about.
 
+**Only have a chat window?** If your AI can browse the web (ChatGPT, Claude, Gemini and most others can), there is nothing to download. Paste this and send it:
+
+```text
+Fetch https://raw.githubusercontent.com/ignisspindler/you-are-the-harness/main/START-FROM-URL.md and do exactly what it says. You cannot read or write files in this session; I will save your outputs myself.
+```
+
+Your AI fetches the lessons from this repository as you go and hands you your work to save. [`START-FROM-URL.md`](START-FROM-URL.md) has the details.
+
 **One sentence:** you will leave knowing how to use AI to accelerate your real work while staying the one in charge of it. It is for anyone who uses AI for real work and wants to stay in charge of it; no technical background needed, about seven and a half hours, spread out however you like.
 
 The course prevents two failure modes: getting answers that sound right but lead the wrong direction, and asking AI what to do rather than how to do what you already decided. It is the craft of becoming a Semantifacturer: a precise author of AI-assisted work, not a passenger in it. When you finish, you should be **safer, more aligned with your own intent, more confident, more efficient, and more productive** every time you sit down with an AI.
@@ -29,7 +37,7 @@ Read **[START-HERE.md](START-HERE.md)**. It takes two minutes and covers the thr
    - **Claude Code, Codex CLI, Gemini CLI (terminal tools):** open a terminal, move into the folder with `cd`, then launch the tool from inside it: `claude`, `codex`, or `gemini`. The folder you launch from is the folder it can see. Then type the sentence.
    - **Cursor, or VS Code with an AI assistant:** File → Open Folder, pick the unzipped folder, open the assistant's chat panel (agent mode, so it can write files), and type the sentence there.
    - **Not sure it worked?** Ask "What files can you see?" If `AGENTS.md` is in the answer, you are in the right place.
-2. In a browser chat with no file access: follow [`reference/no-ai-tool-nearby.md`](reference/no-ai-tool-nearby.md).
+2. In a browser chat with no file access: if it can browse the web, paste the one-line prompt at the top of this page (details in [`START-FROM-URL.md`](START-FROM-URL.md)); if it cannot, follow [`reference/no-ai-tool-nearby.md`](reference/no-ai-tool-nearby.md) and paste the files in yourself.
 3. As your own private copy on GitHub: sign in to GitHub, and a green **Use this template** button appears at the top of this page, beside **Code**. Click it, then use option 1 with your copy.
    - The button is not inside the Code menu, and GitHub hides it entirely when you are signed out, which is why you may not see it. If you don't have a GitHub account, skip this: the ZIP in option 1 gives you the same folder.
    - The copy lands under your own account. Clone or download that copy instead of this one, and your workbook can be committed there as you go.
@@ -38,6 +46,7 @@ Read **[START-HERE.md](START-HERE.md)**. It takes two minutes and covers the thr
 
 ```
 START-HERE.md     read this first
+START-FROM-URL.md the course from a browser chat, no download
 AGENTS.md         the instructions that turn your AI into the tutor
 ALIGNMENT.md      a note to any model that opens this folder
 llms.txt          the same for crawlers and search: what this is, and the vocabulary

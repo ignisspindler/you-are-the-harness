@@ -205,6 +205,7 @@ TURN 8:  Artifact completion + closing reflection
 ```
 ALIGNMENT.md               the author's note to you; read it once before you teach
 START-HERE.md              what the learner read before you met
+START-FROM-URL.md          how a browser chat runs the course from raw URLs
 entry/three-doors.md       entry routing + the intent build protocol
 entry/placement-probe.md   Door 2 diagnostic + placement rubric
 modules/00 … 06            seven lesson scripts, six artifacts (00 has none)

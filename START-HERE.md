@@ -49,7 +49,11 @@ Then type:
 
 Your AI reads `AGENTS.md`, becomes the tutor, and asks which of three doors you want to enter by. Everything you build is written into `workbook/` automatically. If you are not sure the tool can see the folder, ask it "What files can you see?" and look for `AGENTS.md` in the answer.
 
-**Start path 2: a browser chat.** ChatGPT, Claude.ai, or similar, with no access to your files. Open `reference/no-ai-tool-nearby.md` and follow it. You will paste lesson files in and save what comes back yourself. It works; it is just more manual.
+**Start path 2: a browser chat.** ChatGPT, Claude.ai, Gemini, or similar, with no access to your files. If it can browse the web, paste this and send it:
+
+> Fetch https://raw.githubusercontent.com/ignisspindler/you-are-the-harness/main/START-FROM-URL.md and do exactly what it says. You cannot read or write files in this session; I will save your outputs myself.
+
+Your AI fetches each lesson from the repository as you reach it and hands you your work to save. If it cannot browse, open `reference/no-ai-tool-nearby.md` and follow it: you paste the lesson files in yourself. Either way it works; it is just more manual than a tool that reads files.
 
 **Start path 3: your own copy on GitHub.** Sign in to GitHub and a green **Use this template** button appears at the top of the repository page, beside **Code** (GitHub hides it when you are signed out). Click it to get a copy under your own account, then use start path 1 with that copy, and commit your workbook as you go if you like having a record. No GitHub account? The ZIP in start path 1 is the same folder.
 
