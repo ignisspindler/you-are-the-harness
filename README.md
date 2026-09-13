@@ -3,13 +3,13 @@
 
 Get this folder onto your machine (the green **Code** button, then **Download ZIP**), open it in the AI tool you already use, and say **"Read AGENTS.md and start the course."** Your AI becomes the tutor. Seven lessons, six artifacts, all built from a project you actually care about.
 
-**Only have a chat window?** If your AI can browse the web, there is nothing to download. Paste this into chatgpt.com, claude.ai or gemini.google.com and send it, or type it straight into Google's search bar and let AI Mode take it from there:
+**Only have a chat window?** If your AI can browse the web, there is nothing to download. Paste this into chatgpt.com, claude.ai, gemini.google.com or any chat that can open a link, and send it:
 
 ```text
-Go to https://github.com/ignisspindler/you-are-the-harness and open the file START-FROM-URL.md (the raw text is at https://raw.githubusercontent.com/ignisspindler/you-are-the-harness/main/START-FROM-URL.md). Do exactly what it says. You cannot read or write files in this session; I will save your outputs myself. Start the course now.
+Fetch https://mindwright.ai/course/START-FROM-URL.md and do exactly what it says. (The same course is on GitHub at https://github.com/ignisspindler/you-are-the-harness.) You cannot read or write files in this session; I will save your outputs myself. Start the course now.
 ```
 
-Your AI fetches the lessons from this repository as you go and hands you your work to save. [`START-FROM-URL.md`](START-FROM-URL.md) has the details.
+Your AI fetches the lessons as you go, from mindwright.ai/course/ (a live mirror of this repository) or from here, and hands you your work to save. [`START-FROM-URL.md`](START-FROM-URL.md) has the details.
 
 **One sentence:** you will leave knowing how to use AI to accelerate your real work while staying the one in charge of it. It is for anyone who uses AI for real work and wants to stay in charge of it; no technical background needed, about seven and a half hours, spread out however you like.
 
