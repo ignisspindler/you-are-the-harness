@@ -2,6 +2,10 @@
 
 You are about to take a course that is taught by whatever AI tool you already use. There is no video, no slides, and no lecture. Your AI reads the lesson files in this folder and teaches you in conversation, using a project you actually care about as the material. Everything you build is saved here, in `workbook/`, as ordinary files you can open, edit and keep.
 
+## Who this is for
+
+It is for anyone who uses AI for real work and wants to stay in charge of it. No coding, no prior course, no technical background. If you have used a chat assistant for anything that mattered, you are ready.
+
 ## What you will leave with
 
 Six artifacts built from your own work, and one file that travels: your **intent file**, a behavioral contract for working with AI. At the end you copy it into your own projects, and every tool you use reads it before you type a word.
@@ -19,6 +23,8 @@ Module 05  Evolve deliberately               about an hour
 Module 06  Your operating system             about an hour
 ```
 
+About seven and a half hours in all, including the intent build. Most people spread it over two or three weeks.
+
 You can do a module per sitting, or several. One thing not to split: the intent build. It needs a real, uninterrupted hour, and your tutor will warn you before starting it.
 
 ## Pick a project first
@@ -34,7 +40,7 @@ The course works on something real. Have one in mind before you begin: a busines
 
 **Start path 1: an AI tool that can read and write files.** Claude Code, Codex, Cursor, Gemini CLI, or anything similar. Open this folder in the tool and type:
 
-> Start the course.
+> Read AGENTS.md and start the course.
 
 Your AI reads `AGENTS.md`, becomes the tutor, and asks which of three doors you want to enter by. Everything you build is written into `workbook/` automatically.
 

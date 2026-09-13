@@ -193,13 +193,9 @@ Clear and specific across all six probes     Module 06 or the intent build
 
 > *"Based on what you've described, I want us to start at the beginning — not because you lack experience, but because the foundation makes everything else faster. The instinct I'm listening for in Module 1 is [specific thing you didn't yet hear]. Let's build that first."*
 
-**If placing at Module 2:**
+**If placing at Module 2 or above (trigger the intent build first):**
 
-> *"You have clear project instincts — you described [specific thing they said well]. Where I want to start is Module [X], which is about [brief description]. You'll cover Modules 1 and [X-1] on the way, but I'll move through them quickly because you already have the core of them."*
-
-**If placing at Module 3 or above (trigger the intent build first):**
-
-> *"Before we start the modules, I want to do something. You're already operating at the level that Modules 1 through [X] teach — I can tell from how you described [specific thing]. So let's build your intent file first. It will make every module afterward significantly more useful. Then we'll pick up the course at Module [X]."*
+> *"Before we start the modules, I want to do something. You already have what the modules before Module [X] build; I can tell from how you described [specific thing]. So we skip Module 1, and anything else before Module [X], and build your intent file first. It will make every module afterward significantly more useful. Then we'll pick up the course at Module [X]."*
 
 Write the WORKBOOK UPDATE below first, so the baselines are on file before the build begins and its Phase 7 correctly skips. Then deliver the TIME WARNING from Door 3 in `entry/three-doors.md`: the build takes about an hour and should not be started in fragments. If they have the window, run the INTENT BUILD PROTOCOL, then route to the placed module. If not, record `INTENT BUILD: deferred on <today>` and `OPEN THREAD: intent build deferred; offer it first`, then route to the placed module anyway. `AGENTS.md` picks up `OPEN THREAD` before anything else at the next session start.
 
@@ -222,13 +218,3 @@ LAST SESSION:      today's date, "placement probe"
 ```
 
 The two baseline lines are write-once. They are recorded here and never changed, because Module 06 measures the learner's progress against them.
-
----
-
-## NOTES FOR THE CURRICULUM AUTHOR
-
-The assessment door is the most nuanced of the three, because it requires the tutor to synthesize across multiple probes rather than follow a script. The critical discipline is: **don't reveal the rubric, don't reward AI vocabulary, only reward specificity and self-awareness about real experience.**
-
-A learner who says "I've heard about the Beautiful Echo problem" but can't describe a personal example of confirmation bias in their AI use is not at Module 4. A learner who describes exactly that experience without knowing the term is.
-
-The diagnostic works because Semantifacturing competence is behavioral, not conceptual. It shows in how people talk about their actual work, not in whether they know the course vocabulary.

@@ -14,7 +14,7 @@
 
 ## CONTEXT CHECK (before Turn 1)
 
-*(Tutor: Read `CARRY-FORWARD` in `workbook/progress.md` in full, and read every file in `workbook/artifacts/` that has content. This module assembles all of it. Note the two `baseline` lines in particular: the first checkpoint compares the learner's closing answers against them. If both are empty, do not skip the comparison; at the first checkpoint, ask the learner to reconstruct the sentence they would have given on day one, and compare against that.)*
+*(Tutor: Read `CARRY-FORWARD` in `workbook/progress.md` in full, and read every file in `workbook/artifacts/` that has content. This module assembles all of it. Note the two `baseline` lines in particular: the first checkpoint compares the learner's closing answers against them. If both are empty, do not skip the comparison; at the first checkpoint, ask the learner to reconstruct the sentence they would have given on day one, and compare against that. A learner placed late may have no Constitution; if so, build the Harness Card's PURPOSE, INVARIANTS and ANTI-GOALS from Sections 3 and 5 of their intent file, and say that is what you are doing.)*
 
 ---
 

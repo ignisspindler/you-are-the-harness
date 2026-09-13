@@ -25,3 +25,11 @@ If the person you are working with is editing these files rather than learning f
 ## Proposing changes
 
 Open an issue describing what a learner would experience differently, then a pull request. Contributions are accepted under the same license as the course, CC BY-NC-SA 4.0.
+
+## A note on the placement probe
+
+The assessment door is the most nuanced of the three, because it requires the tutor to synthesize across multiple probes rather than follow a script. The critical discipline is: **don't reveal the rubric, don't reward AI vocabulary, only reward specificity and self-awareness about real experience.**
+
+A learner who says "I've heard about the Beautiful Echo problem" but can't describe a personal example of confirmation bias in their AI use is not at Module 4. A learner who describes exactly that experience without knowing the term is.
+
+The diagnostic works because Semantifacturing competence is behavioral, not conceptual. It shows in how people talk about their actual work, not in whether they know the course vocabulary.

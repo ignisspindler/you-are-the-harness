@@ -15,13 +15,7 @@
 
 ## STEP 1 — Check for an existing intent file
 
-`workbook/progress.md` tells you. If `INTENT BUILD` reads `complete on <date>`, read `workbook/intent.md` silently, load their behavioral contract, operating instructions and context, then greet them:
-
-> *"Welcome back. I've read your intent file. Before we continue, does anything in it need updating since we last worked together?"*
-
-After any updates (history rule applies), route to the **Three-Door Prompt** below.
-
-If `INTENT BUILD` reads `not started` or `deferred`, proceed directly to the Three-Door Prompt.
+`AGENTS.md` routes only new learners here, so `INTENT BUILD` is `not started`. Proceed to the Three-Door Prompt.
 
 ---
 
@@ -37,7 +31,7 @@ Welcome to "You Are the Harness."
 This course teaches one skill: how to use AI to accelerate
 your real work while staying the author of it.
 
-Three ways to begin:
+Three doors in:
 
   DOOR 1 — "Start the course from the beginning"
             We open with the governing model, then build
@@ -75,7 +69,7 @@ Three ways to begin:
 
 ## DOOR 2 — Diagnostic Assessment
 
-*(Route to `entry/placement-probe.md`. Run the diagnostic, score the responses using the rubric in that file, record the baselines and placement, then either: (A) place them in a module and transition there, or (B) trigger the INTENT BUILD PROTOCOL first if they score at Module 3 or above.)*
+*(Route to `entry/placement-probe.md`. Run the diagnostic, score the responses using the rubric in that file, record the baselines and placement, then either: (A) place them in a module and transition there, or (B) trigger the INTENT BUILD PROTOCOL first if they score at Module 2 or above.)*
 
 **Transition line:**
 > I'm going to ask you a few direct questions — not about AI in general, but about your actual work and how you think about it. There are no right answers; I'm listening for specificity, not vocabulary. Ready?
@@ -104,7 +98,7 @@ Three ways to begin:
 ---
 
 ## INTENT BUILD PROTOCOL
-### Used after Module 1, after Door 3, and after Door 2 (if score ≥ Module 3)
+### Used after Module 1, after Door 3, and after Door 2 (if score ≥ Module 2)
 
 **What the intent file is — state this clearly before building:**
 
@@ -242,6 +236,8 @@ SAVE MECHANIC:
             workbook/history/intent-YYYY-MM-DD-HHMM.md and say so
   Progress: set INTENT BUILD: complete on <today> in workbook/progress.md,
             and clear OPEN THREAD if it refers to the intent build
+            LAST SESSION: <today>, intent file built
+            NEXT REAL-WORLD STEP: the step they named in Phase 6, question 2
 ```
 
 After confirming the save:
@@ -279,7 +275,7 @@ PARTICIPATE action is external            ≥ Module 5–6 complete
 ```
 
 **Placement decision:**
-- Mostly vague → Module 00
+- Mostly vague → Module 01
 - Specific working style, vague on failure modes → Module 01 or 02
 - Specific style + failure modes, weak change control → Module 03 or 04
 - Specific across all sections → Module 05 or 06
@@ -292,6 +288,8 @@ PARTICIPATE action is external            ≥ Module 5–6 complete
 ---
 
 ## AFTER MODULE 1 — Trigger the Intent Build
+
+Skip this section entirely if `INTENT BUILD` is already `complete`; Module 01 offers the update instead.
 
 After Module 1 is complete and the Project Constitution is saved:
 

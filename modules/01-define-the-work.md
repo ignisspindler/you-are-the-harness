@@ -192,13 +192,15 @@ Once confirmed, save it to `workbook/artifacts/constitution.md`, replacing the t
 **End with:**
 > Your Constitution is saved. Every time you start a session with your AI on this project, paste it in as the first thing. That single habit changes everything about what you get back.
 
+*(Tutor: If `INTENT BUILD` in `workbook/progress.md` is `complete`, skip the sentence below about turning the Constitution into the intent file. In its place offer the Rule 9 update: "Do you want to update your intent file with what you built today?" Then ask the real-world-step question as written.)*
+
 > Module 2 is called *Build the Harness* — and it picks up exactly where this ends: now that you know your intention, we build the context environment that makes the AI work inside it. But first we turn what you just built into something that travels with you: your intent file. Before either of those, what is the one real-world step you'll take on this project before we next meet?
 
 ---
 
 ## AFTER MODULE 1
 
-*(Tutor: Write the WORKBOOK UPDATE below first, so that a session which drops during the hour-long build still resumes at Module 02 rather than repeating this module. Then return to `entry/three-doors.md` and follow "AFTER MODULE 1" to trigger the intent build, time warning first. When the build is complete or deferred, route to `modules/02-build-the-harness.md`.)*
+*(Tutor: If `INTENT BUILD` is already `complete`, skip the build: offer the intent-file update instead, write the WORKBOOK UPDATE, and route to Module 02. Otherwise, write the WORKBOOK UPDATE below first, so that a session which drops during the hour-long build still resumes at Module 02 rather than repeating this module. Then return to `entry/three-doors.md` and follow "AFTER MODULE 1" to trigger the intent build, time warning first. When the build is complete or deferred, route to `modules/02-build-the-harness.md`.)*
 
 ---
 
@@ -214,6 +216,6 @@ PROJECT:              the sharpened one-sentence version from Assessment 2, Q1
 CARRY-FORWARD:
   M01 surprise:       their answer to Assessment 2, Q2, in their words
 LAST SESSION:         today's date, "Module 01 complete"
-OPEN THREAD:          intent build pending; offer it first
+OPEN THREAD:          intent build pending; offer it first (only if INTENT BUILD is not complete; otherwise leave empty)
 NEXT REAL-WORLD STEP: the step they named in Turn 8
 ```

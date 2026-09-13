@@ -219,7 +219,7 @@ THE CONTEXT CAPTURE FAILURE
 
 Once confirmed, save it to `workbook/artifacts/epistemic-airlock.md`, replacing the template. If that file already holds learner content, copy it to `workbook/history/epistemic-airlock-YYYY-MM-DD-HHMM.md` first and say so.
 
-Then update Layer 4 of `workbook/artifacts/context-stack.md` with the Confidence Taxonomy instruction. That file already holds learner content, so the history rule applies: copy it to `workbook/history/context-stack-YYYY-MM-DD-HHMM.md`, tell the learner, name the line you are adding and ask, then write.
+Then update Layer 4 of `workbook/artifacts/context-stack.md` with the Confidence Taxonomy instruction. If that file holds learner content (it will not for a learner placed here without doing Module 02, who gets the template filled instead), the history rule applies: copy it to `workbook/history/context-stack-YYYY-MM-DD-HHMM.md`, tell the learner, name the line you are adding and ask, then write.
 
 > Your Airlock is saved, and your Context Stack now carries the confidence labels. Run the Airlock on anything important before it enters your work. Two minutes of friction here saves weeks of work built on an unexamined assumption.
 

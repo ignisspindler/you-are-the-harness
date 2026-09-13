@@ -1,9 +1,9 @@
 # You Are the Harness
 ### *Harness, Don't Drift.* A self-guided course in working with AI without losing authorship.
 
-Download this folder, open it in the AI tool you already use, and say **"Start the course."** Your AI becomes the tutor. Seven lessons, six artifacts, all built from a project you actually care about.
+Get this folder onto your machine (the green **Code** button, then **Download ZIP**, or **Use this template** for your own copy), open it in the AI tool you already use, and say **"Read AGENTS.md and start the course."** Your AI becomes the tutor. Seven lessons, six artifacts, all built from a project you actually care about.
 
-**One sentence:** you will leave knowing how to use AI to accelerate your real work while staying the one in charge of it.
+**One sentence:** you will leave knowing how to use AI to accelerate your real work while staying the one in charge of it. It is for anyone who uses AI for real work and wants to stay in charge of it; no technical background needed, about seven and a half hours, spread out however you like.
 
 The course prevents two failure modes: getting answers that sound right but lead the wrong direction, and asking AI what to do rather than how to do what you already decided. It is the craft of becoming a Semantifacturer: a precise author of AI-assisted work, not a passenger in it. When you finish, you should be **safer, more aligned with your own intent, more confident, more efficient, and more productive** every time you sit down with an AI.
 
@@ -24,7 +24,7 @@ The course prevents two failure modes: getting answers that sound right but lead
 
 Read **[START-HERE.md](START-HERE.md)**. It takes two minutes and covers the three start paths:
 
-1. In an AI tool that can read and write files (Claude Code, Codex, Cursor, Gemini CLI and the like): open this folder and say *"Start the course."*
+1. In an AI tool that can read and write files (Claude Code, Codex, Cursor, Gemini CLI and the like): open this folder and say *"Read AGENTS.md and start the course."*
 2. In a browser chat with no file access: follow [`reference/no-ai-tool-nearby.md`](reference/no-ai-tool-nearby.md).
 3. As your own private copy: click **Use this template** above, then use option 1.
 
