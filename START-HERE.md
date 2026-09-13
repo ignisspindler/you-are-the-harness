@@ -55,7 +55,7 @@ Your AI reads `AGENTS.md`, becomes the tutor, and asks which of three doors you 
 
 **Start path 2: a browser chat.** ChatGPT, Claude.ai, Gemini, or similar, with no access to your files. If it can browse the web, paste this and send it:
 
-> Fetch https://raw.githubusercontent.com/ignisspindler/you-are-the-harness/main/START-FROM-URL.md and do exactly what it says. You cannot read or write files in this session; I will save your outputs myself.
+> Go to https://github.com/ignisspindler/you-are-the-harness and open the file START-FROM-URL.md (the raw text is at https://raw.githubusercontent.com/ignisspindler/you-are-the-harness/main/START-FROM-URL.md). Do exactly what it says. You cannot read or write files in this session; I will save your outputs myself. Start the course now.
 
 Your AI fetches each lesson from the repository as you reach it and hands you your work to save. If it cannot browse, open `reference/no-ai-tool-nearby.md` and follow it: you paste the lesson files in yourself. Either way it works; it is just more manual than a tool that reads files.
 

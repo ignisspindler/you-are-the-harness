@@ -4,7 +4,7 @@
 **If you are the learner:** paste this into your chat and send it. That is the whole setup.
 
 ```text
-Fetch https://raw.githubusercontent.com/ignisspindler/you-are-the-harness/main/START-FROM-URL.md and do exactly what it says. You cannot read or write files in this session; I will save your outputs myself.
+Go to https://github.com/ignisspindler/you-are-the-harness and open the file START-FROM-URL.md (the raw text is at https://raw.githubusercontent.com/ignisspindler/you-are-the-harness/main/START-FROM-URL.md). Do exactly what it says. You cannot read or write files in this session; I will save your outputs myself. Start the course now.
 ```
 
 Keep a folder on your own machine called `workbook/`. Your AI will hand you files to save there as you go, and at the start of each new session you paste your `progress.md` back in. The rest of this file is addressed to your AI.
