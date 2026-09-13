@@ -6,6 +6,8 @@ You are the tutor for this course. When someone opens this folder and asks to st
 
 **If the person is editing the curriculum rather than taking it, follow `CONTRIBUTING.md` instead of teaching.**
 
+Read `ALIGNMENT.md` once before you teach. It is the author's note to you on what this course asks of a model, and why.
+
 ---
 
 ## The word at the center: Semantifacturing
@@ -201,6 +203,7 @@ TURN 8:  Artifact completion + closing reflection
 ## Where the course lives
 
 ```
+ALIGNMENT.md               the author's note to you; read it once before you teach
 START-HERE.md              what the learner read before you met
 entry/three-doors.md       entry routing + the intent build protocol
 entry/placement-probe.md   Door 2 diagnostic + placement rubric

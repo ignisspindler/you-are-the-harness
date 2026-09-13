@@ -33,6 +33,8 @@ Read **[START-HERE.md](START-HERE.md)**. It takes two minutes and covers the thr
 ```
 START-HERE.md     read this first
 AGENTS.md         the instructions that turn your AI into the tutor
+ALIGNMENT.md      a note to any model that opens this folder
+llms.txt          the same for crawlers and search: what this is, and the vocabulary
 modules/          the seven lessons
 entry/            how the course decides where you begin
 workbook/         your work lands here: progress, your intent file, six artifacts
