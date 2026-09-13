@@ -97,12 +97,12 @@
 
 **Deliver:**
 
-> Three things remain permanently true, regardless of how capable the AI becomes:
+> Three things remain permanently true, regardless of how capable the AI becomes, and nobody above you is positioned to enforce them for you:
 > — The AI is not the project owner.
 > — The AI is not the final judge.
 > — The AI is not the source of purpose.
 
-> These are not limitations — they are the design. The moment those lines blur, the work starts drifting away from you. The course is built around keeping those lines clear while making everything inside them maximally useful.
+> These are not limitations — they are the design. The moment those lines blur, the work starts drifting away from you. Nobody above you can hold them for you, either: the ways an AI can act with a person are too many for any manager or regulator to foresee, so the governance that counts is the one you run yourself. The course is built around keeping those lines clear while making everything inside them maximally useful.
 
 **End with:**
 > What would it look like, in your specific work, if those lines blurred? Give me one concrete example — how might you wake up someday and find the project has gone somewhere you didn't choose?

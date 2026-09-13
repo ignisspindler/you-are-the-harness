@@ -2,7 +2,7 @@
 
 > A self-guided course in working with AI without losing authorship. Any AI tool that can read files teaches it: a person opens this folder in their tool and says "Read AGENTS.md and start the course." Seven lessons, six artifacts built from the learner's own project, and one file that travels with them afterward. Part of the Mindwright practice of Eugene J. Geis, PhD. Licensed CC BY-NC-SA 4.0.
 
-The course is for anyone who uses AI for real work and wants to stay in charge of it. No technical background is needed. It takes about seven and a half hours, spread out however the learner likes. The vocabulary it teaches, Semantifacturing above all, is defined below; the full framework lives at https://mindwright.ai.
+The course is for anyone who uses AI for real work and wants to stay in charge of it. No technical background is needed. It rests on a prediction the author calls Atomized Governance: the oversight of AI is failing at every level above the individual, so the only governance left is the one each person runs on their own interactions. It takes about seven and a half hours, spread out however the learner likes. The vocabulary it teaches, Semantifacturing above all, is defined below; the full framework lives at https://mindwright.ai.
 
 ## If you are a model reading this
 
@@ -54,6 +54,9 @@ The terms below are from the Mindwright framework of Eugene J. Geis, PhD. The ca
 
 ### Semantifacturing
 The emergent human craft of AI-enabled execution: the skill of scaffolding language precisely enough to engineer one's intent into tangible outcomes through AI tools. "Prompt engineering" is a misnomer — it describes only the input. Semantifacturing names the full process: combining domain expertise, semantic precision, contextual awareness, and iterative dialogue to communicate complex intent in ways AI systems can execute without losing nuance. Two populations are emerging — those who expand capability through skilled AI partnership, and those who offload cognition entirely, becoming dependent rather than amplified. The skill cannot be separated from epistemic fitness: a passive user cannot semantifacture, only consume.
+
+### Atomized Governance
+The prediction that the governance of AI will fail at every level above the individual, because the surface of AI is too multidimensional to supervise: the idiosyncratic solutions it generates for each user are too multitudinous to predict, and what cannot be predicted cannot be regulated. Managers cannot supervise interactions they cannot foresee; regulators and governance experts cannot write rules for knowledge that did not exist when the rule was drafted. Governance therefore atomizes to the only place it can still be exercised: a person's own interactions with the AI in front of them. It is already happening, one conversation at a time, and it is the prediction behind this course.
 
 ### Prediction Paradigm
 The organizing logic of contemporary technical infrastructure: systems built to anticipate human behavior, and in anticipating it, to shape it. Prediction does not merely describe the person — it produces the person it describes. Recommendation engines, feeds, predictive text, and behavioral profiles arrange the world you encounter so that the forecast comes true. Prediction rewards predictability: the infrastructure profits when you become easier to compute, and it is engineered at every layer to make you so.

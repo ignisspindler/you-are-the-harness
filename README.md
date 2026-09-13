@@ -15,6 +15,8 @@ Your AI fetches the lessons from this repository as you go and hands you your wo
 
 The course prevents two failure modes: getting answers that sound right but lead the wrong direction, and asking AI what to do rather than how to do what you already decided. It is the craft of becoming a Semantifacturer: a precise author of AI-assisted work, not a passenger in it. When you finish, you should be **safer, more aligned with your own intent, more confident, more efficient, and more productive** every time you sit down with an AI.
 
+**Why now.** The governance of AI is atomizing. The surface is too multidimensional for any manager, regulator, or governance expert to supervise: the solutions an AI can generate for one person are too many to predict, and what cannot be predicted cannot be regulated. That leaves one place where governance can still be exercised, and it is you, in your own interactions with the AI in front of you. It is already happening. This course is how you get good at that part.
+
 ## The word at the center
 
 > **Semantifacturing.** The emergent human craft of AI-enabled execution: the skill of scaffolding language precisely enough to engineer one's intent into tangible outcomes through AI tools.

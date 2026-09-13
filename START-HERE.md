@@ -6,6 +6,10 @@ You are about to take a course that is taught by whatever AI tool you already us
 
 It is for anyone who uses AI for real work and wants to stay in charge of it. No coding, no prior course, no technical background. If you have used a chat assistant for anything that mattered, you are ready.
 
+## Why this course exists
+
+Nobody above you is going to govern your interactions with AI. Not your manager, not a regulator, not a governance expert: the ways an AI can produce something new for one person are too many for any of them to foresee, and what cannot be foreseen cannot be supervised. Governance is atomizing to the individual, and it is already happening. This course exists so that the one layer of governance left standing, yours, is a trained one.
+
 ## What you will leave with
 
 Six artifacts built from your own work, and one file that travels: your **intent file**, a behavioral contract for working with AI. At the end you copy it into your own projects, and every tool you use reads it before you type a word.
