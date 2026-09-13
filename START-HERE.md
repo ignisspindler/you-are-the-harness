@@ -38,15 +38,20 @@ The course works on something real. Have one in mind before you begin: a busines
 
 ## The three start paths
 
-**Start path 1: an AI tool that can read and write files.** Claude Code, Codex, Cursor, Gemini CLI, or anything similar. Open this folder in the tool and type:
+**Start path 1: an AI tool that can read and write files.** Claude Code, Codex, Cursor, Gemini CLI, or anything similar. First get this folder onto your machine (on GitHub, the green **Code** button, then **Download ZIP**, then unzip it). Then open the folder in the tool:
+
+- Terminal tools (Claude Code, Codex CLI, Gemini CLI): open a terminal, `cd` into the folder, and launch the tool from there with `claude`, `codex`, or `gemini`. It can see whatever folder you launched it from.
+- Editor tools (Cursor, VS Code with an assistant): File → Open Folder, choose the unzipped folder, and open the assistant's chat in agent mode so it can write files.
+
+Then type:
 
 > Read AGENTS.md and start the course.
 
-Your AI reads `AGENTS.md`, becomes the tutor, and asks which of three doors you want to enter by. Everything you build is written into `workbook/` automatically.
+Your AI reads `AGENTS.md`, becomes the tutor, and asks which of three doors you want to enter by. Everything you build is written into `workbook/` automatically. If you are not sure the tool can see the folder, ask it "What files can you see?" and look for `AGENTS.md` in the answer.
 
 **Start path 2: a browser chat.** ChatGPT, Claude.ai, or similar, with no access to your files. Open `reference/no-ai-tool-nearby.md` and follow it. You will paste lesson files in and save what comes back yourself. It works; it is just more manual.
 
-**Start path 3: your own copy on GitHub.** Click **Use this template** at the top of the repository page to get a private copy under your own account. Then use start path 1 with that copy, and commit your workbook as you go if you like having a record.
+**Start path 3: your own copy on GitHub.** Sign in to GitHub and a green **Use this template** button appears at the top of the repository page, beside **Code** (GitHub hides it when you are signed out). Click it to get a copy under your own account, then use start path 1 with that copy, and commit your workbook as you go if you like having a record. No GitHub account? The ZIP in start path 1 is the same folder.
 
 ## Coming back
 
